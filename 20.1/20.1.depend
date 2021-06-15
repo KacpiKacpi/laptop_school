@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1623792913 source:c:\users\kacper\desktop\20.1\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<time.h>
+
